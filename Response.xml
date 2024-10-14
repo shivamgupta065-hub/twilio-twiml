@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice" language="en-US">Hello! This is a custom call from Twilio. I hope you're having a great day!</Say>
+    <Pause length="2"/>
+    <Say voice="alice" language="en-US">Goodbye!</Say>
+    <Hangup/>
+</Response>
